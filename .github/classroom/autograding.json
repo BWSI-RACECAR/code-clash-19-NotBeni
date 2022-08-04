@@ -1,0 +1,104 @@
+{
+  "tests": [
+    {
+      "name": "Test1",
+      "setup": "",
+      "run": "python3 gridtraversal.py",
+      "input": "2\r\n2",
+      "output": "2",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test2",
+      "setup": "",
+      "run": "python3 gridtraversal.py",
+      "input": "3\r\n2",
+      "output": "3",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test3",
+      "setup": "",
+      "run": "python3 gridtraversal.py",
+      "input": "3\r\n7",
+      "output": "28",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test4",
+      "setup": "",
+      "run": "python3 gridtraversal.py",
+      "input": "5\r\n10",
+      "output": "715",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test5",
+      "setup": "",
+      "run": "python3 gridtraversal.py",
+      "input": "9\r\n7",
+      "output": "3003",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test6",
+      "setup": "",
+      "run": "python3 gridtraversal.py",
+      "input": "13\r\n13",
+      "output": "2704156",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test7",
+      "setup": "",
+      "run": "python3 gridtraversal.py",
+      "input": "1\r\n100",
+      "output": "1",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test8",
+      "setup": "",
+      "run": "python3 gridtraversal.py",
+      "input": "99\r\n2",
+      "output": "99",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test9",
+      "setup": "",
+      "run": "python3 gridtraversal.py",
+      "input": "20\r\n10",
+      "output": "6906900",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    },
+    {
+      "name": "Test10",
+      "setup": "",
+      "run": "python3 gridtraversal.py",
+      "input": "34\r\n11",
+      "output": "1917334783",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 10
+    }
+  ]
+}
